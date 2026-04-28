@@ -21,7 +21,7 @@ Users enter:
 The AI then generates a structured study plan using prompt-based AI logic in PartyRock.
 
 ## 🔗 Live App
-[https://partyrock.aws/u/AshaTech/aUlpw4lWy/Study-Session-Planner/snapshot/8N5vQMgnp]
+[https://partyrock.aws/u/AshaTech/aUlpw4lWy/Study-Session-Planner/snapshot/eM8DpJP0a]
 
 ## 🛠️ Built With
 - AWS PartyRock
